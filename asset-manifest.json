@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-news/static/css/main.b8377e76.css",
+    "main.js": "/react-news/static/js/main.decff06e.js",
+    "index.html": "/react-news/index.html",
+    "main.b8377e76.css.map": "/react-news/static/css/main.b8377e76.css.map",
+    "main.decff06e.js.map": "/react-news/static/js/main.decff06e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8377e76.css",
+    "static/js/main.decff06e.js"
+  ]
+}
